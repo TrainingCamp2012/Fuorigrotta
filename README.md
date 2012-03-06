@@ -9,3 +9,5 @@
   - get tumblr contents by using API
   - get github project progress
   - etc
+
+- nothing has been done during training camp hahahahahaha
